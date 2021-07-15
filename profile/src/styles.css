@@ -1,0 +1,10 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+div {
+    text-align: center;
+    margin:  50px auto;
+    width: 60%;
+}
